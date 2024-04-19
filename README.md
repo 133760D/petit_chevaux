@@ -1,5 +1,5 @@
 # Jeu des petits chevaux
-Un vieux projet de première année de licence
+Un vieux projet de première année de licence (2018-2019)
 
 ![petit_chevaux](https://github.com/133760D/petit_chevaux/assets/163366197/34d5ec0b-4741-4076-a833-ea306e92783a)
 
